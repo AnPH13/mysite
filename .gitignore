@@ -1,0 +1,7 @@
+venv/
+mysite/__pycache__/
+game_server/__pycache__/
+game_server/models/__pycache__/
+game_server/serializers/__pycache__/
+game_server/validations/__pycache__/
+game_server/views/__pycache__/
